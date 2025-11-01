@@ -1,4 +1,4 @@
-// token: 
+// token: REVOKES!
 
 // https://api.telegram.org/bot1634752031:AAFUBFnE_ha10K7hkIfwxaMIBtAsjUcbDWw/getUpdates
 
